@@ -79,7 +79,6 @@
   line-height: 135%;
   letter-spacing: 0.01em;
   color: #000;
-  font-style: normal;
   text-underline-offset: 4px;
 }
 
@@ -153,7 +152,6 @@
   padding-bottom: 51px;
   position: relative;
   z-index: 3;
-  padding-bottom: 50px;
 }
 
 .cover__description-text {
@@ -347,14 +345,12 @@
 .footer__adress {
   font-style: normal;
   grid-column-start: 1;
-  font-style: normal;
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 135%;
   letter-spacing: 0.01em;
   color: #000;
-  font-style: normal;
   text-underline-offset: 4px;
 }
 
